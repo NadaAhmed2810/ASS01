@@ -30,8 +30,13 @@ namespace ASS01
             #endregion
 
             #region variables
-           //5
-           int num = 50;
+            ////5
+            //int num = 50;
+            #endregion
+            #region CLS_CTS
+            //int Num = 5;//4 Byte
+            //String Name = "Ahmed";//10 Byte
+            //Name = "Ali"; // 6 Byte
             #endregion
         }
     }
