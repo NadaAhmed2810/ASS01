@@ -64,6 +64,19 @@ namespace ASS01
             //P01.Y= 20;
             //Console.WriteLine(P02.X);
             #endregion
+            #region Object
+            //object obj = new object();
+            //obj = 1;
+            //obj = 'C';
+            //obj = "Ahmed";
+            //obj = true;
+            //object obj02=new object();
+            //Console.WriteLine(obj02.GetHashCode());
+            //Console.WriteLine(obj.GetHashCode());
+            //obj02 = obj;
+            //Console.WriteLine(obj02.GetHashCode());
+            //Console.WriteLine(obj.GetHashCode());
+            #endregion
         }
     }
 }
