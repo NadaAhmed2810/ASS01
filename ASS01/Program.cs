@@ -28,6 +28,11 @@ namespace ASS01
 
             #endregion
             #endregion
+
+            #region variables
+           //5
+           int num = 50;
+            #endregion
         }
     }
 }
