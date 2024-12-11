@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Drawing;
 
 namespace ASS01
 {
@@ -41,19 +42,28 @@ namespace ASS01
             #endregion
 
             #region Value Type
-           // int x;//4 Byte
-           //// Console.WriteLine(x);
-           // x = 0;
-           // Console.WriteLine(x);
-           // Int32 Y = 9;
-           // Y = x;
-           // x++;
-           // Console.WriteLine(x);
-           // Console.WriteLine(Y);
+            // int x;//4 Byte
+            //// Console.WriteLine(x);
+            // x = 0;
+            // Console.WriteLine(x);
+            // Int32 Y = 9;
+            // Y = x;
+            // x++;
+            // Console.WriteLine(x);
+            // Console.WriteLine(Y);
 
 
             #endregion
+            #region Reference Type
+            //Point P01;
+            //P01= new Point();
 
+            //Point P02=new Point();
+            //P02 = P01;
+            //P01.X = 10;
+            //P01.Y= 20;
+            //Console.WriteLine(P02.X);
+            #endregion
         }
     }
 }
