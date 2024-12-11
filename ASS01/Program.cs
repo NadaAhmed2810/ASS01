@@ -33,11 +33,27 @@ namespace ASS01
             ////5
             //int num = 50;
             #endregion
+
             #region CLS_CTS
             //int Num = 5;//4 Byte
             //String Name = "Ahmed";//10 Byte
             //Name = "Ali"; // 6 Byte
             #endregion
+
+            #region Value Type
+           // int x;//4 Byte
+           //// Console.WriteLine(x);
+           // x = 0;
+           // Console.WriteLine(x);
+           // Int32 Y = 9;
+           // Y = x;
+           // x++;
+           // Console.WriteLine(x);
+           // Console.WriteLine(Y);
+
+
+            #endregion
+
         }
     }
 }
