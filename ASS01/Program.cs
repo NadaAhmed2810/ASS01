@@ -77,6 +77,15 @@ namespace ASS01
             //Console.WriteLine(obj02.GetHashCode());
             //Console.WriteLine(obj.GetHashCode());
             #endregion
+            #region fractions and Discard
+           //// int Num01 = 1234556789999;
+           // long Num02 = 12345667788888;
+           // double Num03 = 22.2;
+           // float Num04 = 22.2f;
+           // decimal Num05 = 22.2M;
+           // int Num06 = 1_000_000;
+           // Console.WriteLine(Num06);
+            #endregion
         }
     }
 }
